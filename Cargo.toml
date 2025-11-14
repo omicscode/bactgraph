@@ -1,0 +1,10 @@
+[package]
+name = "graphbact"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+linfa = "0.8.0"
+linfa-clustering = "0.8.0"
+ndarray = "0.17.1"
+petgraph = "0.8.3"
