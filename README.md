@@ -7,5 +7,5 @@
 cargo build
 ```
 
-Gaurav Sablok
+Gaurav Sablok \
 codeprog@icloud.com
